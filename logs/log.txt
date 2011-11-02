@@ -1,0 +1,7 @@
+10.29.11, 9:24 am: Url is not a valid url: script.xml
+10.29.11, 9:28 am: Account not authorized to call	+63632361431
+10.29.11, 9:29 am: Account not authorized to call	+63632361431
+10.29.11, 10:26 am: No called number is specified
+10.29.11, 11:10 am: No called number is specified
+10.29.11, 11:11 am: No called number is specified
+10.29.11, 11:40 am: No called number is specified

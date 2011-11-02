@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+<Say>This message is from a software developer.</Say>
+<Say voice="woman">
+Thank you for joining our automated phone tree. We will call you with information about important [software development] events in the St. Louis area.
+</Say>
+<Gather action="http://hennessygrp.com/callcenter/handle_phonetree_unsub.php">
+	<Say>If you do NOT wish to receive these calls, press 9, followed by the pound sign, now.</Say>
+</Gather>
+<Say voice="woman">Thanks again.</Say>
+</Response>

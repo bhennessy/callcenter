@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather action="handle-user-input.php" numDigits="1">
+        <Say>Welcome to Saint Louis Tea Party Coalition.</Say>
+        <Say>For information about the next After Party, press 1.</Say>
+        <Say>To join our Automated Phone Tree, press 2.</Say>
+        <Say>To leave a message, press 3.</Say>
+    </Gather>
+    <!-- If customer doesn't input anything, prompt and try again. -->
+    <Say>Sorry, I didn't get your response.</Say>
+    <Redirect>handle-incoming-call.xml</Redirect>
+</Response>
