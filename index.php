@@ -20,6 +20,8 @@ $(document).ready(function(){
 </head>
 
 <body>
+	<label for="phoneNumber" id="phoneNumberLabel">Phone Number to Test:</label>
+	<input type="text" id="phoneNumber" name="phoneNumber" hint="Phone number to test"></input>
 	<?
 	echo $_ENV{'DATABASE_SERVER'};
 	
